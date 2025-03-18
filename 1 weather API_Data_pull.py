@@ -23,7 +23,7 @@ from datetime import datetime, timedelta
 import json
 from dateutil.relativedelta import relativedelta
 
-api_key = "8cc95cb5d24f4729940102245250903"
+api_key = "Your_API_Key"
 location = "75080"        # Using a zip code as the location
 def get_historical_weather(api_key, location, start_dt, end_dt):
     base_url = "http://api.weatherapi.com/v1/history.json"
