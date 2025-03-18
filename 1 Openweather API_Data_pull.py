@@ -19,7 +19,7 @@ max_date_available
 # COMMAND ----------
 
 # Your OpenWeatherMap API key and location coordinates
-api_key = "87a9ca0fbcc5950231bbb11c02f78777"
+api_key = "Your_API_Key"
 zip_code = "75080"
 
 # Step 1: Fetch latitude and longitude using the zip code
